@@ -4,7 +4,12 @@
 </p>
 
 <h1>Creating a virtual machine through Azure</h1>
-This tutorial shows how to create a Virtual machine within Azure.<br />
+<h2>Description</h2>
+This repositiory provides a step-by-step guide on how to create a Virtual Machine (VM) in a cloud environment (Azure). It covers key concepts such as: <br/>
+-subsciption and resoursce Groups<br/>
+-virtual networks <br/>
+-creating and Configuring a VM
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,8 +38,8 @@ Open your VM through remote desktop.
 
 <p>
 
-<img src="part 1.jpg" height="50%" width="40%" alt="part1"/>
-<img src="part2.jpg" height="50%" width="40%" alt="part2"/>
+<img src="part 1.jpg" height="60%" width="40%" alt="part1"/>
+<img src="part2.jpg" height="60%" width="40%" alt="part2"/>
 </p>
 <p>
 Log in to <a
