@@ -57,6 +57,6 @@ Create a username and password. The password must be somthing you will remember 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assuming you are on Windows go to your start menu and choose remote desktop on your computer. Enter your Username and Password to enter your virtual machine.
+Assuming you are on Windows go to your start menu and choose remote desktop on your computer. Get your VM public IP address. Enter the IP address, your Username and Password to enter your virtual machine.
 </p>
 <br />
