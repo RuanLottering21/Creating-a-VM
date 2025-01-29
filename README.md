@@ -33,7 +33,7 @@ Open your VM through remote desktop.
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="vm.jpg" height="80%" width="80%" alt="VM Diagram"/>
 </p>
 <p>
 Log in to <a
@@ -46,7 +46,7 @@ Log in to <a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="vm.jpg" height="80%" width="80%" alt="VM Diagram"/>
 </p>
 <p>
 Create a username and password. The password must be somthing you will remember and is secure. Then choose Review and create to create your Virtual Machine.
@@ -54,7 +54,7 @@ Create a username and password. The password must be somthing you will remember 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="vm.jpg" height="80%" width="80%" alt="VM Diagram"/>
 </p>
 <p>
 Assuming you are on Windows go to your start menu and choose remote desktop on your computer. Get your VM public IP address. Enter the IP address, your Username and Password to enter your virtual machine.
