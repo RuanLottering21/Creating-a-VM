@@ -33,7 +33,8 @@ Open your VM through remote desktop.
 
 <p>
 
-<img src="vm.jpg" height="80%" width="80%" alt="VM Diagram"/>
+<img src="part 1.jpg" height="40%" width="40%" alt="part1"/>
+<img src="part2.jpg" height="40%" width="40%" alt="part2"/>
 </p>
 <p>
 Log in to <a
@@ -54,7 +55,7 @@ Create a username and password. The password must be somthing you will remember 
 <br />
 
 <p>
-<img src="vm.jpg" height="80%" width="80%" alt="VM Diagram"/>
+<img src="remotedesktop" height="80%" width="80%" alt="RD"/>
 </p>
 <p>
 Assuming you are on Windows go to your start menu and choose remote desktop on your computer. Get your VM public IP address. Enter the IP address, your Username and Password to enter your virtual machine.
